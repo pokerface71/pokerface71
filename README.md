@@ -9,7 +9,13 @@
 pokerface71/pokerface71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=fariborz0015"
+      alt="fariborz0015"
+  /></a>
+</p>
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Esmaeil-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmaeil-jafari1992) [![Mail Badge](https://img.shields.io/badge/-Esmaeiljafari-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:esmaeiljafari1992@gmail.com)
